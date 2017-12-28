@@ -1,1 +1,4 @@
-function the BeatlesPlay(musicians, instruments)
+function theBeatlesPlay (musicians, instruments){
+  var array = ();
+    for 
+}
